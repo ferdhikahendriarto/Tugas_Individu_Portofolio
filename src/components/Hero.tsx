@@ -26,8 +26,8 @@ const Hero = () => {
           </div>
           <div className="flex items-center gap-2">
             <Phone className="h-4 w-4 text-accent" />
-            <a href="tel:+6285817008894" className="hover:text-accent transition-colors">
-              +62 858 1700 8894
+            <a href="tel:+6285817008893" className="hover:text-accent transition-colors">
+              +62 858 1700 8893
             </a>
           </div>
         </div>
